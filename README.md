@@ -72,10 +72,10 @@ The goal of this project is to create a platform that helps users discover and c
 
 ---
 
+### 🔗 I Share The Website Link
+
+Local:   http://localhost:5174/
+
 ### 📬 Connect With Me
 
 https://www.linkedin.com/in/brindha-sri-9a1a5b3a1
-
-###  I Share The Website Link
-
-Local:   http://localhost:5174/
