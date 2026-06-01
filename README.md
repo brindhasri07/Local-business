@@ -71,3 +71,7 @@ The goal of this project is to create a platform that helps users discover and c
 - Local Services 🔧
 
 ---
+
+### 📬 Connect With Me
+
+https://www.linkedin.com/in/brindha-sri-9a1a5b3a1
