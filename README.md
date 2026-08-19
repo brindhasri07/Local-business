@@ -74,7 +74,7 @@ The goal of this project is to create a platform that helps users discover and c
 
 ### 🔗 I Share The Website Link
 
-Local:   http://localhost:5174/
+Local:   http://localhost:5173/
 
 ### 📬 Connect With Me
 
