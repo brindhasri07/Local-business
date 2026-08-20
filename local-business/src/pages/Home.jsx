@@ -6,7 +6,7 @@ import NearbyFinder from "../components/NearbyFinder";
 import AnalyticsDashboard from "../components/AnalyticsDashboard";
 import OffersSection from "../components/OffersSection";
 import BusinessOfTheDay from "../components/BusinessOfTheDay";
-import Leaderboard from "../components/Leaderboard";
+import LeaderBoard from "../components/LeaderBoard";
 import CompareBusinesses from "../components/CompareBusinesses";
 import Recommendation from "../components/Recommendation";
 import { useState } from "react";
@@ -54,7 +54,7 @@ function Home({ favorites, setFavorites }) {
       </div>
   <Recommendation />
   <CompareBusinesses />
-  <Leaderboard />
+  <LeaderBoard />
   <BusinessOfTheDay />
   <OffersSection />
   <AnalyticsDashboard />
